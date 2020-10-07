@@ -30,7 +30,7 @@ It's actually really simple, luckily, the `plumber` package takes care of all of
 
 -   The R script which loads to `plumber` package and tells the API which port to listen on and sources the controller script **(The main script)**
 
-A great example can be found on [this](<https://github.com/nolis-llc/r-api-tutorial>) github repo from [[Jacqueline Nolis](https://medium.com/@skyetetra?source=post_page-----863ccf91516d--------------------------------).]([https://medium.com/\@skyetetra](https://medium.com/@skyetetra))
+A great example can be found on [this](<https://github.com/nolis-llc/r-api-tutorial>) github repo from [Jacqueline Nolis](https://medium.com/@skyetetra)
 
 ## Setting up environments is boring
 
